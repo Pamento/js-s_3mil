@@ -611,3 +611,6 @@ You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholde
 MIT
 
 [Patreon](https://www.patreon.com/typicode) - [Supporters](https://thanks.typicode.com) ✨
+
+Origin depo:
+origin	https://github.com/typicode/json-server.git
